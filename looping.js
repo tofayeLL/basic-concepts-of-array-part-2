@@ -25,7 +25,7 @@ const numbers = [10, 23, 3, 5, 78, 96, 98, 546, 543, 198];
 } */
 
 // by using while loop
-/* let i = 0;
+/* let i = 0; 
 while (i < friends.length) {
     console.log(friends[i]);
     i++;   
